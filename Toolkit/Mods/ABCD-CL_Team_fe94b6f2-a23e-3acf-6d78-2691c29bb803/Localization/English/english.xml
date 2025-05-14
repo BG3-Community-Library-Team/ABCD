@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h9199ffa9g2191g7895g0658g2e70d6d68c23" version="1">Humanoid</content>
+  <content contentuid="h3568e2c2g3676g8c99gb873g6c94451eb7ac" version="1">A collection of bipedal races, ranging from humans, elves, and halflings to goblins, gnolls, and kobolds.</content>
+  <content contentuid="hf4fb3a39gb5d9g3e81g5fbeg0d768d6bad0d" version="1">Remnants of the once-living that are trapped between life and death.</content>
+  <content contentuid="hab5b049egb19cg94d5g56a3g9829d00023ad" version="1">Undead</content>
+  <content contentuid="h284c414agd2b3g7fc1g1e3bg1ecf6707e3c4" version="1">Frightening creatures that are not ordinary, not truly natural, and almost never benign.</content>
+  <content contentuid="h426f91cfg4cf0gde9dg2e2bg5c759c54bad2" version="1">Monstrosity</content>
+  <content contentuid="hfe6ae4a7g70aage1c3gb203g8b9df28f1fce" version="1">Though giantkind comes in many varieties, each with its own culture, all of them are huge, loud, heavy, and, most importantly, strong.</content>
+  <content contentuid="h0c589f8cg5368g488fg38ccg20e98f223552" version="1">Giant</content>
+  <content contentuid="h3c785473g5ea0gbfd6g15a5g21a0b40b88b5" version="1">These gelatinous creatures usually dwell in caves and dungeons, feeding on refuse, carrion, and ill-fated adventurers.</content>
+  <content contentuid="hca2fa8cbge842ga982ga697g92c46f3407b7" version="1">Ooze</content>
+  <content contentuid="hda03b5f1gb451g7e18g6fc3g3b976b496115" version="1">Warped, alien beings that have come to Faerûn from beyond the multiverse.</content>
+  <content contentuid="hf3332d74g51cfg0fb7gc0e1ge3af9a4fc5f2" version="1">Aberration</content>
+  <content contentuid="h55329b6eg8840g3880gf398g4980c05ff70e" version="1">Good-aligned creatures native to the Upper Planes. Many of them are servants of deities, employed in the mortal realm.</content>
+  <content contentuid="h7289c18dgfe5ag4e96g9fe9g20def1f93f3d" version="1">Celestial</content>
+  <content contentuid="h4aa32cefg9f96g29efg8d60gf5842133c30a" version="1">Creatures native to the Elemental Planes. They range from simple masses of a specific element to beings infused with elemental energy.</content>
+  <content contentuid="h7c4aa1a0g1297g4058g6f83g1e8d26455320" version="1">Elemental</content>
+  <content contentuid="h307db095g3429g812eg1eafg3de29bb9bcda" version="1">Mystical creatures that dwell in twilight groves and misty forests. They have close ties to nature - and like nature, not all fey are good.</content>
+  <content contentuid="hedf315b9g0356g1274g4f1dgbb6cfe9e915f" version="1">Fey</content>
+  <content contentuid="h296cf62cg6211g4ad5ga2bdg63c791ca3e69" version="1">Evil, wicked creatures from the Lower Planes that labour under the leadership of lawful archdevils or chaotic demon princes.</content>
+  <content contentuid="h9e71a2bbg643egaef9g43e1g7f1b9f2c62fd" version="1">Fiend</content>
+  <content contentuid="h7a67dc3dg5519g597bgae82g9c1bc4b4e507" version="1">Creatures that are made instead of born. Some only follow a simple set of instructions, while others are imbued with sentience.</content>
+  <content contentuid="hd23ff780ga185g3590gd01cg5d5a625d235d" version="1">Construct</content>
+  <content contentuid="h769124f3gb8c4g9b60g04c8ge9358df338a7" version="1">Vegetative or fungal creatures. Most can walk and move - and some are carnivorous.</content>
+  <content contentuid="h014a046fgba33g57a0gcf64g0634b010917b" version="1">Plant</content>
+  <content contentuid="h05a5e097g103agdcacg5427g79794c248b4d" version="1">All varieties of animals, both ordinary and magical. Most have limited intelligence and lack a society and language.</content>
+  <content contentuid="h34edc762g4cebg1583g9093gad0db024c9d1" version="1">Beast</content>
+  <content contentuid="ha4b6ba56g7fb9g4f30gb44dgb19ef5400354" version="1">Immensely intelligent, ancient, and powerful reptiles that covet wealth. &lt;br&gt;&lt;br&gt;Chromatic dragons are selfish, evil, and feared, while metallic dragons are noble, good, and respected by the wise.</content>
+  <content contentuid="hfa84989bgaa31gdc03g0c31g060e97083b6c" version="1">Dragon</content>
+  <content contentuid="h3da9606agf8fcg180ag9a6eg0133e16a562c" version="1">All varieties of animals, both ordinary and magical. Most have limited intelligence and lack a society and language.</content>
+  <content contentuid="h02556a68gee26gead6g6753gfda4f1d4747d" version="1">Beast</content>
+  <content contentuid="h41e52a49g5724g12b4g6a94g1bcfa9abf9ec" version="1">The most common face in Faerûn, humans are known for their tenacity, creativity, and endless capacity for growth.</content>
+  <content contentuid="h9062517eg773bga6cdgeebdga37537ce0ee0" version="1">Human</content>
+  <content contentuid="h20eb1c90ge73bg06d8gb08aga8189ec67102" version="1">With ethereal countenances and long lifespans, elves are at home with nature's power, flourishing in light and dark alike.</content>
+  <content contentuid="hcc480856g74d9g2424g0be1gd37e14b0b897" version="1">Elf</content>
+  <content contentuid="h33c2921dg26a2gce60g1b58gf0504f26307f" version="1">High Elf</content>
+  <content contentuid="h20d2a221g14c3g2ba5gff15g7a8d6a135c11" version="1">Heirs of the mystical Feywild, high elves value magic in all its forms, and even those who do not study spellcraft can manipulate the Weave.</content>
+  <content contentuid="hc9fb09bbge55fga8fbg08aegca0b231d5f87" version="1">These elves spend their reclusive lives in Faerûn's forests. Decades of training in archery and camouflage are enhanced by an otherworldly swiftness.</content>
+  <content contentuid="ha36429fcgeecbg7533g4269gfddd9e3f0cc0" version="1">Wood Elf</content>
+  <content contentuid="h31f90c07g6673g645eg8d0fg1618a2e2d618" version="1">Driven to the Underdark, most drow have adopted a ruthless pragmatism. While the Lolth-sworn delight in the goddess' evil tenets, the Seldarine reject Her attempt to overthrow the leader of the elven pantheon.</content>
+  <content contentuid="hfdcc1616gb5e8g61adgd614g3c77607b95cf" version="1">Drow</content>
+  <content contentuid="h6e741ff0g56cbg20edg406fg7fc4ba07dc23" version="1">Lolth-Sworn Drow</content>
+  <content contentuid="h4ce00dd2gd729g4e85g559eg3656fa6e1df7" version="1">Raised by Lolth's cult in the city of Menzoberranzan, these drow embody the virtues of their corrupt and merciless goddess. Lolth marks Her followers with bright red eyes so those in the Underdark will learn to fear them on sight.</content>
+  <content contentuid="hb601758fgc76bg9014g56d1g53bac2582e4d" version="1">Seldarine Drow</content>
+  <content contentuid="haebbc40cgb916gfbbfg1cfbg08e34e988b1b" version="1">Seldarine drow can be found seeking allies from all over Faerûn, aiming to settle their conflict with Lolth - and each other - by any means necessary.</content>
+  <content contentuid="hb4365367g9285g139ag6749g96cbe758d007" version="1">As durable and unyielding as their homes of stone, dwarves are some of the finest warriors, miners, and smiths of Faerûn.</content>
+  <content contentuid="h47ee31e5gcedcg9c76gb800g6e70e4b187ec" version="1">Dwarf</content>
+  <content contentuid="hf72123d6g3defg9684g28acg1592f1c25acd" version="1">These dwarves are known for their confidence and keen intuition. The culture of their Deep Kingdom values family, ritual, and fine craftsmanship.</content>
+  <content contentuid="h34927ee5g2281g2311gc355ga5d2d1f358c4" version="1">Gold Dwarf</content>
+  <content contentuid="h4f9e3528g576cge5d9g004agb368a8bdf438" version="1">Shield Dwarf</content>
+  <content contentuid="hf537b156gcbcagdf36ge3fbgc62719fb7fdd" version="1">Great losses in ancient wars against goblins and orcs have led these dwarves to adopt a cynical mindset, but they will endure anything to restore their ancestral homelands.</content>
+  <content contentuid="hc6cea241gb36fgc61dg1343gbc993fdd20be" version="1">Once enslaved by the eldritch mind flayers, duergar adapted to freedom with harsh practicality. Their cold demeanours and gift of stealth are well-known throughout the Underdark.</content>
+  <content contentuid="ha9665c21gdf41gcef3gf659g0ff9e4366553" version="1">Duergar</content>
+  <content contentuid="hfcac7a68gf14dg24b5g221eg1e74f1959bc6" version="1">Curious, ambitious, and versatile, half-elves are welcome everywhere, but struggle without a community to call their own.</content>
+  <content contentuid="hf73017f2g4954gb2bfg8c06g22ae09ead7a7" version="1">Half-Elf</content>
+  <content contentuid="hc4546243g4a75g84b4g3294gce725dc7fb39" version="1">High Half-Elf</content>
+  <content contentuid="hfe99db38g2cf0ge502gbbc9g939b47381ea2" version="1">A touch of the Feywild remains in half-elves with this bloodline, and even those untrained in magic possess a hint of wild power.</content>
+  <content contentuid="h794fd5e5g7d61gd5c6g619dgdca1bbb398e9" version="1">Wood Half-Elf</content>
+  <content contentuid="ha4364da3g7ee7g0048g6992g1839f089ac44" version="1">Like their wood elf parent, these half-elves have a quickened stride and an eye for stealth. Yet many break away from isolation in Faerûn's forests to explore the rest of the Realms.</content>
+  <content contentuid="hd0b3c81cg6c02g69afgc74eg0d3a4dd18b10" version="1">Most half-drow result from liaisons between Seldarine drow and surfacers. While half-drow inherited a few magical gifts, they aren't usually raised in the Underdark.</content>
+  <content contentuid="hcbc04e2agece6g9ebfgc902g0bb37c4ea0b2" version="1">Drow Half-Elf</content>
+  <content contentuid="h04c3c6fcg7711g5720g5de3g1f1b881bb528" version="1">Small, clever, and energetic, gnomes use their long lives to explore Faerûn's brightest corners and darkest depths.</content>
+  <content contentuid="h45ca27e7gabf3g5dfag1333g4103a3822aa0" version="1">Gnome</content>
+  <content contentuid="hc0d713bcg5c65gbff7g6464g7a40c1a3a43c" version="1">Rock Gnome</content>
+  <content contentuid="hf23d086ag347bgb6fag50bcgd29157935736" version="1">The most commonly seen gnomes on Faerûn's surface, rock gnomes are named as such for their hardiness and affinity for metal.</content>
+  <content contentuid="hd3bec771gc458g29cdg7c57g638c91397aab" version="1">More guarded than their surface cousins, deep gnomes survive in the Underdark with darkvision and skilful stealth.</content>
+  <content contentuid="h15c5260ag3128gd8feg5e29g0be55bd3f741" version="1">Deep Gnome</content>
+  <content contentuid="h27e01ebbg5c86g9fa4g7da1gbde59178ff31" version="1">Forest Gnome</content>
+  <content contentuid="h1866e134ge1f0g17c9g98eag605ee6d3f4b5" version="1">Even smaller than their cousins and twice as reclusive, forest gnomes are a rare sight in Faerûn. They master magic and craftsmanship in their distant, idyllic groves.</content>
+  <content contentuid="h5f4a1684g3dafgdfb4gacf8g20f994bfba1c" version="1">Small yet capable, halflings prefer the comforts of home and hearth - but their natural luck and dexterity makes them fine adventurers.</content>
+  <content contentuid="h502b3a64g2399gaef5g371bgdd646be247ec" version="1">Halfling</content>
+  <content contentuid="h46d42528g767dgcc49g4da9gfae8654c4e87" version="1">Stealthy but social, these halflings travel all over Faerûn to make names for themselves.</content>
+  <content contentuid="h551b1ef1ge8a9gca03gdf49gd5117d4405b4" version="1">Lightfoot Halfling</content>
+  <content contentuid="h0694b0f9g709fg3b66g9a9dg2f34acbe6eef" version="1">Strongheart Halfling</content>
+  <content contentuid="h2caf1242gdd4cg79b7g3833g906b97f362e2" version="1">Legend has it that dwarven blood gave stronghearts their hardiness. Resistant to poison and wellsprings of endurance, these halflings easily hold their own.</content>
+  <content contentuid="h04ad18c6g9c9cg8de6g7d74g55d2eefe2ecf" version="1">Descended from devils of the Nine Hells, tieflings face constant suspicion in Faerûn. Thankfully, their arcane abilities make them natural survivors.</content>
+  <content contentuid="h27d211bfg7fadgc719g3853ga0eec6d450e9" version="1">Tiefling</content>
+  <content contentuid="hda79c41cg4e8egd6eagc288gede2181ecace" version="1">Asmodeus Tiefling</content>
+  <content contentuid="hb1272411g67a3gbe59gc9f0g91e93d7296c2" version="1">Bound to Nessus, the deepest layer of the Hells, these tieflings inherited the ability to wield fire and darkness from the archdevil Asmodeus' infernal bloodline.</content>
+  <content contentuid="he4cd0fbfg95afg51cfga8e9g497d339f599c" version="1">Descended from the archdevil Mephistopheles, these tieflings are gifted with a particular affinity for arcane magic.</content>
+  <content contentuid="h0d8f3827g2385gb5d0gb2feg5becdbdc97dc" version="1">Mephistopheles Tiefling</content>
+  <content contentuid="h256ab364gac94g79e0g8e90g991198bb28a3" version="1">Zariel Tiefling</content>
+  <content contentuid="h4ae6ba1eg4871ga3b7g1f78g279e2fca2ae1" version="1">Tieflings from Zariel's bloodline are empowered with martial strength, and can channel searing flame to punish their enemies.</content>
+  <content contentuid="h99b5898cgb31bg452fg0e3eg07ce2ba0bc34" version="1">With a ruthlessness borne from mind flayer enslavement, githyanki ride the Astral Sea atop red dragons, bringing their silver swords and psionic might to bear against any trace of the illithid menace. </content>
+  <content contentuid="h7d27c4beg56eagca7egbfa2g2413250643aa" version="1">Githyanki</content>
+  <content contentuid="hd5227939g3f12ga48cg8591g64a512b75ae1" version="1">Dragonborn</content>
+  <content contentuid="hbc594b9dg597eg59d8gd200g44522798b4c1" version="1">A proud race that values clan and skills above all else. Once enslaved by dragons, they strive to be self-sufficient, not wanting to be beholden to anyone, not even the gods.</content>
+  <content contentuid="h2be7410fgb03agf2b3ged59g5cd20cbeda27" version="1">Black Dragonborn</content>
+  <content contentuid="h51a9658eg1553gf2c8g4c84gdc352a1c7892" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the charcoal colouration and fizzling, acrid breath of black dragons. </content>
+  <content contentuid="h70edf790g8789g843age069g8c0944613187" version="1">Blue Dragonborn</content>
+  <content contentuid="h85885995g8cb0g6b5dgd8c5ga6e82a9ad29d" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the deep sapphire scales and charged, crackling breath of blue dragons.</content>
+  <content contentuid="hc3d22115g4d07g15f5g5c86ge142fc627021" version="1">Brass Dragonborn</content>
+  <content contentuid="hfef250b4g2225g77feg4d7dg50c88473c868" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the burnished ochre hue and flickering, fiery breath of brass dragons. </content>
+  <content contentuid="he430ca8dg3c26ga4e4g508cg6d97cc1beb9c" version="1">Bronze Dragonborn</content>
+  <content contentuid="hdcd79a47g9727gb9bbga240ga2dce487ee9c" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the shining sepia scales and sparking breath of bronze dragons.</content>
+  <content contentuid="hfa17b961g9bfcge3c1g24a5g2e049659d32a" version="1">Copper Dragonborn</content>
+  <content contentuid="h65d1f1d6g337ag6aa4g4ff4ga6a635d6d59f" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the pink-gold colouration and corrosive breath of copper dragons.</content>
+  <content contentuid="h2a621381g8d14g937cgfbc0g78f353e53562" version="1">Gold Dragonborn</content>
+  <content contentuid="hf47d4e67gaa16g60cbgfa79gde92022e3276" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the resplendent shine and roiling, blazing breath of gold dragons.</content>
+  <content contentuid="heddb5e7bgf896g0106gc272gdf410bcd43ce" version="1">Green Dragonborn</content>
+  <content contentuid="hb042387ag162egec99g90dbgbfaa8bafbb09" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the brilliant emerald aspect and stinking, putrid breath of green dragons.</content>
+  <content contentuid="hf4552145g91b0g5be1gbbadg51c4f381dc07" version="1">Red Dragonborn</content>
+  <content contentuid="h55676923g55c6g959bg33e5gfb7fe3fe66dc" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the bright scarlet likeness and roiling, burning breath of red dragons.</content>
+  <content contentuid="h81ff56ffgb889gffb9g89ebgdeea60b68cc8" version="1">Silver Dragonborn</content>
+  <content contentuid="hdf6099fcgcdd1g45d1g5b5ag49ec0c6f3317" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the glinting shine and scorching cold breath of silver dragons.</content>
+  <content contentuid="hbfec1d4bg2742g808bgad69g0830068c6351" version="1">White Dragonborn</content>
+  <content contentuid="hf5ec47d4gada5g695ag3ca9g6b518b6b43e5" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the snowy aspect and frosty breath of white dragons.</content>
+  <content contentuid="he7fd9d92g5444g4f47g773eg3fcbd6065b6a" version="1">Half-Orc</content>
+  <content contentuid="h7e49492agfa28g3038ga25ag1e6d8e340224" version="1">Creatures of intense emotion, half-orcs are more inclined to act than contemplate - whether the rage burning their bodies compels them to fight, or the love filling their hearts inspires acts of incredible kindness.</content>
+</contentList>
