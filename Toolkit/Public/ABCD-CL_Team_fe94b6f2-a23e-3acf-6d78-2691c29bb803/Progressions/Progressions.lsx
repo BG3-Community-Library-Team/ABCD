@@ -15666,362 +15666,506 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="f87992a9-d5e0-4c22-b64d-0d7b36cf1df1"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="b1d03027-34ef-4ebd-8ef7-06cce560d72c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="d2374079-8660-41fe-a89c-35ce2c353e00"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="1574488a-652d-4b7c-8368-f9c9b1fa49a0"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="672240df-3d09-4fcb-a688-3b5bffe88794"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="55fac6be-7b17-4918-8381-9223e9e5a273"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="ed703a24-4f2b-42b6-ab25-427746fca6f4"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="54821628-8dbf-4b67-b617-6d0b02bfa38c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="21"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="733e7651-a3e6-4ebf-b962-0a668c710fb9"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="22"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="c71ed512-4c05-4832-a5de-21c760a09f6a"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="23"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="f5db8085-e562-4445-9aeb-4db49f745d06"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="24"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="6ee38335-a352-45e4-b3fa-62052055c0ca"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="25"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="0a5b7c79-574c-456c-9dbc-b6a9a6eeeb49"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="26"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="3c00afd4-6b27-4030-976a-21ba28f4149c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="27"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="6d423f15-b955-4541-b529-88592a304e0c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="28"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="09210196-7447-447e-8a8a-19440a235094"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="29"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="77beb841-d0f6-4ca6-a159-112f5703bce0"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="30"/>
+                    <attribute id="Name" type="LSString" value="BeastMaster"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1ba04e99-e329-471d-a656-bbd5a363d7c8"/>
                     <attribute id="UUID" type="guid" value="adc7a24c-b473-49e5-a9dc-972e48463a31"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="a626febb-8eb4-442c-abc8-3d42f2d9e219"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="b59ad811-d8c3-4782-884f-5e91b5acb3c5"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="bb181636-62b8-42b7-be21-f3114d3c40db"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="c30d3664-2533-4c9f-8a15-004fd12f873c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="16af70f2-6cfe-43dd-9a26-b8bb2dd586e0"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="47d67fd6-898d-4238-82cd-bc00752c6990"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="bb4b3292-a1c7-4e69-874e-2f00a855f60c"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="a1f15341-ba3d-4eae-a900-4b00fdd21b16"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="21"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="7c164701-1db9-47a0-8eca-f3c8f7f4ad50"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="22"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="0b58dbd6-12f9-4bcc-8101-f02d2da1fef4"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="23"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="4fbc7a95-2898-4328-9048-cd9c1cb9794a"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="24"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="7977b0d6-c2bb-4f1a-b100-34bed2d789d5"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="25"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="c67393d7-7ac9-45fc-a791-0d3833da0ad3"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="26"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="b900be39-6d73-4322-a270-09243fff10b3"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="27"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="a5a550cc-0d75-4e3c-862c-f2af77c4f3b9"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="28"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="dade3fee-bc30-4eea-82e9-f73f14da62a6"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="29"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="5c89b3dd-aa89-4c70-9428-a6be072a99d1"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="30"/>
+                    <attribute id="Name" type="LSString" value="GloomStalker"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="caa60bb8-8ca3-4871-b034-e10a6bc8ca29"/>
                     <attribute id="UUID" type="guid" value="a0113ac6-d07e-48bc-a5a1-c9cf72082e93"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="22e4f25a-6960-46b2-917f-7d3163bf4327"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="93c6be4c-c5dc-4e8f-ab8f-e4cb5c46ddde"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="4d910743-6446-4d2f-afb6-5fc9b187a6c5"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="08fdb688-1dda-4e5c-a368-c96ac1b12efc"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="bb489148-f486-44fe-8670-3e444b91a41d"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="c0b58151-86c4-4ac5-8017-17abc5854a92"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="4c752ed1-3e62-4fc7-bce9-17d3c3fa54c6"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="487596ee-1969-46f3-920b-c4f74c5fef51"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="21"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="db2265f9-eaaf-4d9d-a16c-c6ee9f06b93b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="22"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="c9c2e398-50e9-419f-b372-104c840c1f50"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="23"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="6a556d1f-6669-4857-9b13-70e68b5aad9a"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="24"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="63feb87a-db54-44d1-bf7c-1c1927a18265"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="25"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="6565045a-a43e-4487-b8b9-b1c556a14c34"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="26"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="b440266c-3927-4ca4-9633-7493bac01c8f"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="27"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="865db2ba-b572-4d82-85da-879858f75a18"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="28"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="5045dfda-0d6b-4e0b-9f90-cbb2351ff810"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="29"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="709aed0f-09dd-484d-b3b2-b6973e9c8595"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="30"/>
+                    <attribute id="Name" type="LSString" value="Hunter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b19bc1ec-d7ee-4023-9f58-5056fd99be24"/>
                     <attribute id="UUID" type="guid" value="95bfa58e-f6b0-4e2f-9ae1-cd388ac18f1d"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="d3055eb9-10d9-4f23-ba79-393f876c756e"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="cab245e9-470c-461d-a53c-d79504e1c271"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="3c92c6b9-5eb6-412b-9dd4-b55143f6a499"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="ba954e6d-9c44-447d-8ece-4b295061572e"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="8230239a-6ae7-4cf7-8f04-bdf6eee33662"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="516c7f6d-b3e1-4919-8752-0bab8539f872"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="2fc1d735-8470-4ae8-872c-f5b91cc7a788"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="5be3eb5a-0d45-4630-8531-f472da24f400"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="21"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="55926813-9be6-4d3f-97c0-5bf0f1947e2d"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="22"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="3c01430f-3318-45ca-b0ef-5d6b58ee6729"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="23"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="eb2b6fc5-dbdd-468d-becf-79ff1397057b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="24"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="9ca5ae34-7366-433d-9b3e-81343562ae5b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="25"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="0ff7fd04-0c74-4f14-9133-b627521d506d"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="26"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="d6e76676-bea7-4c43-9275-e74b30ac0194"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="27"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="61f0deb5-778c-4431-829a-700ce1e940b3"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="28"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="37547122-95b6-44a4-b723-670b1bc78bf4"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="29"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="4894f058-e8bf-4a3d-8109-fad1153a27de"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="30"/>
+                    <attribute id="Name" type="LSString" value="Swarmkeeper"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="54ad9a98-9656-4aa5-858e-b302f83c4577"/>
                     <attribute id="UUID" type="guid" value="82bc0ad6-c238-45a8-b6ac-e52845125c44"/>
                 </node>
                 <node id="Progression">
