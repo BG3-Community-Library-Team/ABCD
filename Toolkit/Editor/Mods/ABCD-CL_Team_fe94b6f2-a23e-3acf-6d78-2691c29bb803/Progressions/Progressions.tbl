@@ -1155,6 +1155,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ce3f360b-1d2c-4e7e-9878-ab0977128510" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1163,6 +1165,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4faa114f-0d98-470b-8930-d55a04893a1a" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1171,6 +1175,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5900db0b-d2d5-497d-bf14-22866f64809b" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1179,6 +1185,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e4e92613-c4ef-4666-847e-ebe7a02e7691" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1187,6 +1195,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a8f0f392-e4cc-4924-a4eb-696a20d1f020" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1195,6 +1205,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6eb82dc3-7d6e-4bf8-ab53-12e5c1b62059" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1203,6 +1215,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="479ed2a4-4778-4037-8998-83bb8303d7f6" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1211,6 +1225,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="af082dc4-2888-4c82-9c18-ffadc305957b" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1219,6 +1235,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="56f15692-9c4f-49de-a8ec-b4a3c69a3fe6" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1227,6 +1245,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a40d4f40-98d2-4248-9452-d545ad4e377b" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1235,6 +1255,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="55a3bceb-98a6-423a-b1ef-ce5164765013" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1243,6 +1265,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="19d610f6-ff11-41f7-ba8a-08c63902e303" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1251,6 +1275,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e6884ab0-b666-42c3-8e67-57cb6531cb23" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1259,6 +1285,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="cbf393f6-4922-407d-a34f-471a4b0bf9c2" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1267,6 +1295,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="441748d2-a7d4-45b1-9b1d-4089edc9c7bc" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1275,6 +1305,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1d0d4ff6-3250-4502-96b8-8dc6c0c749ff" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1283,6 +1315,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="41afbd0d-6ac5-439a-993d-3b67b0a8c52b" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1291,6 +1325,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="24ddfe57-948b-4196-b50f-f831cfeecc8d" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="bdd02775-b9ee-480c-a260-d844580453b4" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GiantPath" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -1438,6 +1474,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="088895a1-15e9-43cd-8788-45f8457338f2" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1446,6 +1484,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="99b036e6-501c-4eda-810e-dcd90b238197" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1454,6 +1494,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="613e4368-6a0b-4922-b434-1a729257d11f" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1462,6 +1504,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c7d11e53-8451-40c8-85ba-58abbbfe7c5e" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1470,6 +1514,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b5d95aa4-468b-4bf8-9eef-a52e542bf81e" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1478,6 +1524,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="20cde597-2043-4e62-973a-fdd867254277" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1486,6 +1534,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e14a701e-0ac3-41d4-98a0-bdb5f0578deb" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1494,6 +1544,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="045c621e-b09c-45c3-a8d9-1719d556f10b" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1502,6 +1554,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3ff892ec-c1df-4b7b-8123-2d74bf96b5bb" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1510,6 +1564,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="74f1f08c-8945-446d-9755-5fac754e9207" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1518,6 +1574,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="97f1b461-fb3e-4d41-9b28-2e7fca839f31" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1526,6 +1584,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="384262fe-5976-44f9-bfaf-fa5ff0d976bd" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1534,6 +1594,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1b6be696-c3ed-4865-9486-a167cc9f6f88" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1542,6 +1604,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5618a6b6-f4e3-4108-af6d-00d08fa024a2" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1550,6 +1614,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="61e4341a-e3cc-4e41-b710-46c5c305d7f7" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1558,6 +1624,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="91dfafd7-a0a9-4e68-b1fb-c71e10453413" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1566,6 +1634,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="dd5f296b-683f-4070-a0c4-de5289a0fe9c" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1574,6 +1644,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f4af8195-b84b-476c-9a03-0563af6f14d0" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="48f1760f-86e7-401c-ad52-633fffbae49e" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TotemWarriorPath" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -1715,6 +1787,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d36f7aae-0006-45cf-bbac-07afa86554fc" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1723,6 +1797,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8bf02126-f336-42f5-809d-6e668c66b47f" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1731,6 +1807,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c66d79de-74df-4715-8335-144db4ec70fc" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1739,6 +1817,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="77f2eafc-1d9a-44c2-af79-d2a3b7184b3c" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1747,6 +1827,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a6c74760-9fd9-4755-8045-69bb39ac7adc" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1755,6 +1837,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="942ec127-b2a7-4d84-bcbf-f54b3bf88852" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1763,6 +1847,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="305df94c-c88d-4c6c-a3a2-eab867540004" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1771,6 +1857,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9a9287d8-5a7a-47ff-b1cb-a29acfa774b6" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1779,6 +1867,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f4fd3811-90ae-483d-87a0-6d9fd23f3eca" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1787,6 +1877,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="dca49478-fa7c-42a8-8922-4b6a7c0453f6" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1795,6 +1887,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9ecf9489-2f64-4f92-bb52-78aba1241e34" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1803,6 +1897,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e507df9f-9ff4-4457-bb89-ffb680045c85" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1811,6 +1907,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="05c445ee-a2c8-44ae-8ff3-1db3fcda0750" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1819,6 +1917,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d33409b2-c632-43ce-9780-9f2be730916c" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1827,6 +1927,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0d8b9fa6-12fd-4c91-832b-6494760a1356" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1835,6 +1937,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e190bdb8-8ccc-489c-9ce4-6f25a5ec98fb" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1843,6 +1947,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5d212d22-14a6-468d-a408-085c8c42caf9" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1851,6 +1957,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="40c11cd1-e8d9-4f48-8d0c-eac73001089c" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WildMagicPath" />
       </fields>
     </stat_object>
     <stat_object color="#FFFFA500" is_substat="false">
@@ -2715,6 +2823,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b7037661-32bc-492c-80c4-7f6d2f1b84d4" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2723,6 +2833,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="207b945a-e2df-4773-b117-9736f710fc16" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2731,6 +2843,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5fca4e80-2912-44aa-a9a3-b289e636b258" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2739,6 +2853,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0c92482a-7ead-40b4-87e1-9b12c23640a4" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2747,6 +2863,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="81c97c62-9adb-4b28-8e61-54b825fc94a4" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2755,6 +2873,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="bc368ffe-0047-4bfe-81f5-9a2389a404c0" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2763,6 +2883,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="31b1ba41-20f2-4b0f-b44f-bad1d66395b1" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2771,6 +2893,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f4afc0ae-53e7-4e47-a69e-9e6c76d7d211" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2779,6 +2903,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="843e6fa6-7be7-4e55-ae54-321351cb3ff3" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2787,6 +2913,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4ea5e7d0-a4a6-42e4-b34d-3f2a9b2cf001" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2795,6 +2923,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7a968f8e-ebf9-45c9-9705-d56a6f22b4f7" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2803,6 +2933,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="83204cb2-fe97-46db-9642-8047b4dce8f0" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2811,6 +2943,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="13f52c5c-29fe-44cc-8381-f793c0356a88" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2819,6 +2953,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3bfb6097-d267-48ae-970a-b2a0cd6174b9" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2827,6 +2963,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a3073509-cf9b-421a-8a07-7744b06f5619" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2835,6 +2973,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="284834a3-399b-47e2-91e8-411e5715d8b4" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2843,6 +2983,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d0c7c192-5cb5-4296-80e0-c81c9dd85d08" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2851,6 +2993,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="fb9451ff-f2ed-45e1-bec4-6609d3c88c4a" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="376220ae-e871-4ca5-8521-ec46fa2cd117" />
+        <field name="FSName" type="StringTableFieldDefinition" value="GlamourCollege" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -2989,6 +3133,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="26627384-3dde-4b05-9cca-c50122b6b1bf" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2997,6 +3143,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="113934ca-2369-4254-925a-03542661c8ea" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3005,6 +3153,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b49b4011-7f3b-4067-bbf9-ed9a64fe8010" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3013,6 +3163,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="440234b2-f2ee-4551-b132-73a45ff515de" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3021,6 +3173,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ae2f869c-3251-4e60-a1b2-a65ed951c4aa" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3029,6 +3183,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="37dff3d6-55a6-4f6a-b5e8-9ec6c2ab6d32" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3037,6 +3193,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b671b200-50c1-427a-ac40-9bdbe00cec84" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3045,6 +3203,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3b2d5a88-9181-480f-9b9f-a17a7d039a57" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3053,6 +3213,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="57631755-4903-40f6-8d62-1e2aff1ade2c" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3061,6 +3223,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7c4dfe5f-0f58-44c4-a1f6-0c484b6f028e" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3069,6 +3233,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6feab1ff-c7b8-4d9d-bfeb-6143a4a50653" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3077,6 +3243,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="34a9c452-1063-4a83-8184-969e1d61e4ff" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3085,6 +3253,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e9babba2-e0d6-4d05-a505-8e8cc9322202" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3093,6 +3263,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f0221665-524e-4960-9875-819c09c40a67" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3101,6 +3273,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="324438c6-c0ba-4ec1-a1ed-449dd8ef8e28" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3109,6 +3283,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="283f9dd4-0ec0-4440-8650-de11f9b8f7aa" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3117,6 +3293,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2ef6f944-9895-42e6-adcd-f234540908f3" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3125,6 +3303,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d852b6f1-5818-40c0-95fa-362eea09e561" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="36e6ea13-317e-4e6e-ac63-fe6d50e9f014" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LoreCollege" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -3264,6 +3444,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b7e20d94-a847-4680-8fc5-e4c89c070180" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3272,6 +3454,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="55381ea1-99ed-4c7f-9245-fbb3c9b53cd1" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3280,6 +3464,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9d6cacfe-62ab-4c6a-9479-1c30244ef4c3" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3288,6 +3474,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="090cca71-ccab-4d33-82ca-df80d5f788ad" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3296,6 +3484,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f3e8f6aa-08d7-4c54-bcc5-c67925799e84" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3304,6 +3494,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="155974b5-ebbe-4720-aaf3-b6da34b9b6a6" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3312,6 +3504,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3992bccd-d1b5-4691-ab96-2e2c03ef1337" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3320,6 +3514,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="79c2054d-bc65-41ae-b8f1-f7253b79599c" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3328,6 +3524,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="21940b56-ba58-4cf2-8730-806714b50cdf" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3336,6 +3534,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2c9fc4b3-a5b0-4e35-acc4-919965907b76" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3344,6 +3544,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e96c5ec4-fd09-405d-b5e1-32a9ff0bd4f3" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3352,6 +3554,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="fea4054f-b02e-4429-9012-7dc55bd2bc98" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3360,6 +3564,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="de267142-046d-4854-988b-4f9af9f4c1b9" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3368,6 +3574,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="649fef99-eec1-47e3-864d-10232a1f860c" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3376,6 +3584,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="07635fb4-51ab-45de-a040-0aee1fcbfeb2" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3384,6 +3594,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5674370b-09f8-4afc-ae15-4a6f9ce9a52b" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3392,6 +3604,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7cd2db1d-1ae6-4e44-a4bf-57f68ca44e49" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3400,6 +3614,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="94f4f503-3a47-437a-9dd9-c492f843ecdf" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="d58a305f-3ccf-440c-b069-2abd9235ac03" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ValorCollege" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -3538,6 +3754,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="404c404e-1f04-4e7e-a77a-0a739884ce49" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3546,6 +3764,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b414a97a-57fa-4ab7-9e36-2d0f8b267ff5" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3554,6 +3774,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="31c02b79-fd1b-4387-98e0-7b8f71c96578" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3562,6 +3784,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2074bc9e-e9c8-46be-add6-52b7580d2047" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3570,6 +3794,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="60721d6c-806b-44a5-bc62-a40de6d1f299" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3578,6 +3804,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4799016a-8b97-4889-8a4b-bdbd45d0b5c5" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3586,6 +3814,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="76c744b6-012d-45f6-9679-75dc5aebc7e2" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3594,6 +3824,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4cb15d4c-ec35-492e-8d45-5d3c4ba2cc6d" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3602,6 +3834,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a031aa82-ebe9-4849-a2f8-e3123e3b08ca" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3610,6 +3844,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e6ef6caf-b236-44c4-9a77-3664b3fffe98" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3618,6 +3854,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="47176f18-b9e6-422d-bbf7-ad75175bfa13" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3626,6 +3864,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e82a07ed-089f-419a-8c62-f1cbc2897d4b" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3634,6 +3874,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="353b8c27-2d69-4fd7-8ae3-00225b5bd2e5" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3642,6 +3884,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="98c3b1be-3ab5-490b-acff-24c8afedeb6e" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3650,6 +3894,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d9e5df20-f93b-43c5-b92f-0f82ce7c393f" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3658,6 +3904,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5d4f71fc-34f4-4240-a254-80e03018f42b" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3666,6 +3914,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2af1b19d-492e-452b-8469-1a33a9ebacd9" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3674,6 +3924,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1221d284-0120-495d-bfb8-111d2ac9a1a7" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="68f61c89-be48-41aa-acb6-2f3bd15303c7" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SwordsCollege" />
       </fields>
     </stat_object>
     <stat_object color="#FFFFA500" is_substat="false">
@@ -4535,6 +4787,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a99fa3c4-c371-4018-96b8-587501050022" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4543,6 +4797,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="31380fb6-c816-499e-b3c0-c2be1dd2d07a" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4551,6 +4807,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="33f6d98f-230f-4e84-8bf7-a0e28d346364" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4559,6 +4817,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3431f11f-1718-40e4-b511-868d8b7f7330" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4567,6 +4827,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="93d307ea-96ef-4f76-904a-e9c45f5bd9c5" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4575,6 +4837,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4ddb2bf2-1808-4072-8040-f91ef0df4334" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4583,6 +4847,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="54d36603-2527-439f-aec9-63853eedffd8" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4591,6 +4857,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1ef9b107-bfcc-4c8a-98ad-d958972dd526" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4599,6 +4867,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a6e395f9-94ec-4836-9ddd-efdce74197ec" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4607,6 +4877,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b9ecb5e1-a703-4fde-8f90-ed6f29107e8c" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4615,6 +4887,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5b283ef6-0d14-4c30-bd51-4a43228103a5" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4623,6 +4897,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f4c6a2d9-9bae-4789-8922-0e14c6b085e6" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4631,6 +4907,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2ae8d314-0b8b-4e33-a03c-684c3f9c4a1f" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4639,6 +4917,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1fbccbcc-3d0e-4bab-8d02-b0295a33ff54" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4647,6 +4927,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b8e841a9-da66-4e53-9ad9-0981bd817a36" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4655,6 +4937,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6a68fd90-dc66-49a1-a858-de5a93078d32" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4663,6 +4947,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7bf92824-6482-451b-956b-cff9dc593fe1" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4671,6 +4957,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="278c32d0-563e-4458-b285-e4c79936332a" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b3505f8a-be78-401c-adea-bb466c14aa54" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DeathDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -4814,6 +5102,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4131989d-2bc2-4ad5-b4d2-201709c76966" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4822,6 +5112,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d30398d7-c2dd-47a3-8e8e-56e562ef6416" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4830,6 +5122,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="54ea81c5-5d6f-41ea-8928-506efce005a2" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4838,6 +5132,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3336e0e3-85f9-4bbf-bec8-fccdf6d4fe5b" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4846,6 +5142,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="15f452b4-c2ea-46dc-94c3-cf6db4888571" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4854,6 +5152,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="efe6359e-3059-4ea8-afbb-30c457c8fdf7" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4862,6 +5162,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d4af4193-7a07-49ff-b190-f9d4b46f92f0" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4870,6 +5172,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f0438b43-e8f7-4981-9c8d-a49fc9a9fc17" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4878,6 +5182,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="569a7fec-63a1-4f3f-b3f3-5089fb0e0320" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4886,6 +5192,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5732ba4c-f424-46fd-800d-1e63cb4b6225" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4894,6 +5202,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2c316a7e-11b5-44b5-beff-49a5721f72b7" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4902,6 +5212,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="46e513e1-87d9-4290-bfdf-1e271f60245b" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4910,6 +5222,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a3f9e21d-7e35-418a-a2f6-6968ffa2c842" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4918,6 +5232,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="62be626c-caa1-438c-9efd-ec923b501bfd" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4926,6 +5242,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c1118249-8cd1-4652-b171-d0186bdd6029" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4934,6 +5252,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ab1a7e99-f7c5-4f78-ba82-7f4ea0e4c604" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4942,6 +5262,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="af295047-f16c-4097-b46c-41181dd5be0e" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4950,6 +5272,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8b7c9755-e222-4a08-ac5b-b61c0bdd9293" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="4709e126-1b45-4baf-93a2-be66ed4487d2" />
+        <field name="FSName" type="StringTableFieldDefinition" value="KnowledgeDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -5096,6 +5420,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="bae99aff-eed9-445a-b082-e59f71276fec" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5104,6 +5430,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b88be43d-fe39-45c3-b309-e959f6d78968" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5112,6 +5440,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="704b91aa-2b49-4b4b-9133-e02ced065494" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5120,6 +5450,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="88291132-0172-4c14-aff8-7060eaa03948" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5128,6 +5460,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f7bcc8f4-61b1-4b15-9af1-04a7df366d56" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5136,6 +5470,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="59941d25-3f2c-4556-b7e7-3913beba19cf" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5144,6 +5480,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e6fcada4-37d3-4749-9056-cc4c69489d12" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5152,6 +5490,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ff75241b-93d3-41cf-ad96-80deff243dba" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5160,6 +5500,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7e082e2c-fa0b-4ee2-8410-5918a42c035f" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5168,6 +5510,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ed48ed30-caf8-4bce-95eb-0e1213e3c0a3" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5176,6 +5520,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4b51f6da-1bf3-4755-9439-3abe12bd97f2" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5184,6 +5530,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="09a2dcc8-0d22-4917-a721-b772dbfbd699" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5192,6 +5540,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c70082c7-5c2b-4afe-932a-0e037170baae" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5200,6 +5550,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8a475eae-93bc-41b1-8a2a-d7658bfa76de" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5208,6 +5560,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7ed604bc-de57-4fc9-b97c-202a2ce56b5c" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5216,6 +5570,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="843a2fa1-421c-48ce-83dd-d34142933f1f" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5224,6 +5580,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="bb55bdfd-20e9-4dc7-9186-b823e3fab0a7" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5232,6 +5590,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="62432855-3036-41c4-8174-a1f1af22c869" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="9b56beb6-2a68-42a4-b81b-7a890a1b6b99" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LifeDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -5376,6 +5736,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d30d3960-7bb8-464b-8182-a085ccc69254" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5384,6 +5746,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="82b6069e-401a-473f-a103-af97181a43e7" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5392,6 +5756,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6eb3f600-88aa-434c-a1d7-f7a20e8502a9" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5400,6 +5766,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ff66a137-f482-4267-bfc3-03387a3b266e" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5408,6 +5776,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ee36e3b2-31a9-4acd-b6f7-7e0c2d6db2e6" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5416,6 +5786,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8c62d5ec-09ea-4c72-b96f-5b7e8a63545a" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5424,6 +5796,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e02d4dea-d2e4-4433-babf-9bb1e05deb8b" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5432,6 +5806,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9da5408a-a4eb-4a28-ac99-a0047bef4ecc" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5440,6 +5816,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="270ce6c2-18e3-4136-af64-21e1b00ba463" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5448,6 +5826,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c574bab7-183b-4af2-b9af-849b9b0931d0" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5456,6 +5836,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="834c4ed4-6b9b-4a9e-bdb2-62c4a8f9dd9d" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5464,6 +5846,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0ef9c496-9b7b-4534-89ab-a841bd292362" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5472,6 +5856,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b0b823e4-6f71-412a-9596-49a9079beef8" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5480,6 +5866,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="72cf24ac-f52c-455a-9d54-883034f1da72" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5488,6 +5876,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8a176116-3058-44d2-9de9-0a83f8b0e403" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5496,6 +5886,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1dbf14c4-7e39-47fb-8dd1-511ebe2917aa" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5504,6 +5896,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="285e4cf7-a930-4c93-a25e-c5fc26b062ea" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5512,6 +5906,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="01877977-5db7-4674-8beb-665b0c2338d3" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="6ec6caad-2dfa-4661-8edd-5c4eca0e044c" />
+        <field name="FSName" type="StringTableFieldDefinition" value="LightDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -5658,6 +6054,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="59bf14b6-51f4-4b5e-b88a-a10dda663799" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5666,6 +6064,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e3bbb2bd-7484-4ec1-a2b1-c85595c92bc1" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5674,6 +6074,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2feb1cf0-21d3-4ccf-a8a3-019a0c1e7a9a" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5682,6 +6084,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="092ce15d-c63f-4535-aed0-772d629f8d50" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5690,6 +6094,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="52f0f6ce-b449-4628-8886-1f62de28ca10" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5698,6 +6104,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="110e9172-0eab-4299-90ca-f66ea4e204d3" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5706,6 +6114,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="99847bbc-be17-4a29-82f5-16966e58c8f5" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5714,6 +6124,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ef5f976c-22ef-433d-9386-b5cdac0f5285" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5722,6 +6134,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3f5110f4-3396-4b99-82fb-9cc9b56df767" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5730,6 +6144,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6b790b9d-0bdd-4b4c-aa8c-ce842419bfb6" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5738,6 +6154,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4c6988d6-8dc8-49da-bec6-2d2321e74fe2" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5746,6 +6164,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="15a15a46-09b1-40fd-a3b2-db7a0a5137c4" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5754,6 +6174,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="684d6548-fa79-45b1-b9b5-8d08ebfb8a2a" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5762,6 +6184,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="242d93bb-e29c-4bb0-9a3c-fcd30e35cfc9" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5770,6 +6194,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9ce2218a-3d5f-441a-ab2e-4039ff8d9baa" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5778,6 +6204,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0448d985-9f04-4f4a-a2f9-2cb7bb143cd3" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5786,6 +6214,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b6779317-19e4-4464-9f80-47dc9fdfad17" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5794,6 +6224,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="80ff7633-fb0c-472c-b8f9-2dcea199a078" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c668b65d-2848-4feb-981f-eb54cc5ceb15" />
+        <field name="FSName" type="StringTableFieldDefinition" value="NatureDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -5939,6 +6371,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="be7d6d32-cb6a-4ccc-a5a7-adca03359ee1" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5947,6 +6381,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5589a193-483e-406f-9ffc-d9dc0d35c363" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5955,6 +6391,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d3a4b6e8-897e-4c67-9bbb-4c628b808268" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5963,6 +6401,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="49bb3b7d-a0a0-4e8d-b967-803099c75a95" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5971,6 +6411,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4117e182-3e3f-4c21-8435-cc29eb0ac51c" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5979,6 +6421,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="319ee5a4-a1d3-46c3-897a-382dd75cc609" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5987,6 +6431,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a8cc0c8a-8561-432c-b342-b5ce16394abc" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -5995,6 +6441,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="93e93fc3-7aa6-42b6-93eb-da5dc3a7afa0" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6003,6 +6451,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="12a2f199-3601-4724-8cfa-dea8573c5ea0" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6011,6 +6461,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="330a0eff-712f-49ce-b578-3a51b951439e" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6019,6 +6471,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="927f8011-f1d5-4476-9aaf-d83da90350f5" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6027,6 +6481,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="df1e473d-9ea6-4e67-bb5f-a346a55d1d52" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6035,6 +6491,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="88eabc1d-f4f2-4d0a-9077-3d6515998555" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6043,6 +6501,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9a8754af-094c-4f88-8107-bfb5bdfa73b2" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6051,6 +6511,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1bc397b6-590c-4f48-932d-791c75203069" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6059,6 +6521,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3c494e78-61d2-4118-aa46-78fe6c4c8caf" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6067,6 +6531,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c9d22946-1e60-40f0-a0fc-a35fe31ed71f" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6075,6 +6541,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1569f6c4-3a2e-40b1-b96b-4c6f11018964" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0630b55b-36f4-41d2-aacc-28e99d6ae252" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TempestDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -6219,6 +6687,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="fe6d61c5-a188-4d12-a1b4-bd826274996b" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6227,6 +6697,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f5d6c182-ecf4-44d4-a2ff-98078b67914a" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6235,6 +6707,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b313e284-0584-4a2a-a42a-97c21c4d225a" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6243,6 +6717,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7b7aef84-ac78-4a86-baa1-1a3fb21d8ae6" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6251,6 +6727,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3e2d07bd-68c9-40d4-95ca-ebb5b464304f" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6259,6 +6737,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5450fce8-d12d-4978-a437-4ccf8d91d7fb" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6267,6 +6747,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="39c7766c-7cbc-498a-81cf-984dff9b0106" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6275,6 +6757,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ad9e0352-0d05-4951-bd83-e3adde4a66c2" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6283,6 +6767,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3ad8ba85-4d58-4c6e-8300-275104c06f4a" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6291,6 +6777,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3e14f1c9-4b59-421a-ba8c-f02faf0b834f" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6299,6 +6787,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="defacb3b-fd8d-4b45-88f8-9fd3821b78b9" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6307,6 +6797,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4009652f-cd19-4446-9b51-e1a88cba017a" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6315,6 +6807,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="85cf481b-9b6c-4e31-b188-7a883bfb29fa" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6323,6 +6817,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="bbcfd053-5a2e-4e34-80b3-1633f062962d" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6331,6 +6827,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ff6fb305-df63-4016-ac93-ba6e0cc8d993" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6339,6 +6837,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f3bc25e4-e655-45c6-b3ab-297f9387dd01" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6347,6 +6847,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="00333b63-1fc3-4d47-8752-514b7d66f351" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6355,6 +6857,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="fa22e3ed-2de1-42b0-87d4-500405447de0" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="044e4e07-6980-479f-80e5-3c4a84e691d1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="TrickeryDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -6504,6 +7008,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ff25e548-9225-487a-9900-b294efe7695a" />
         <field name="Level" type="ByteTableFieldDefinition" value="13" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6512,6 +7018,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="61a2ede6-0856-49c8-ab74-9ed5d80b1873" />
         <field name="Level" type="ByteTableFieldDefinition" value="14" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6520,6 +7028,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b2353c0f-715a-4384-b843-83389e0d0eb1" />
         <field name="Level" type="ByteTableFieldDefinition" value="15" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6528,6 +7038,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="447781e5-7a45-4da0-bb4e-ab8d31bf47d5" />
         <field name="Level" type="ByteTableFieldDefinition" value="16" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6536,6 +7048,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8cbd01da-8b34-4e69-8e1a-452af50a7760" />
         <field name="Level" type="ByteTableFieldDefinition" value="17" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6544,6 +7058,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="63e80e46-a0e6-4961-ac07-a5178ac16763" />
         <field name="Level" type="ByteTableFieldDefinition" value="18" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6552,6 +7068,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="89157ced-f80f-4ec4-8ee5-ab9e64ae05fa" />
         <field name="Level" type="ByteTableFieldDefinition" value="19" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6560,6 +7078,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="797c8b52-d558-4acc-86f6-9550910bd290" />
         <field name="Level" type="ByteTableFieldDefinition" value="20" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6568,6 +7088,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="03016867-c18c-4bc6-bee6-d02bd5f18f4f" />
         <field name="Level" type="ByteTableFieldDefinition" value="21" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6576,6 +7098,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ef4a1966-b8d8-49ed-8125-aade09256a7b" />
         <field name="Level" type="ByteTableFieldDefinition" value="22" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6584,6 +7108,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0fce3172-1067-467c-af5d-9333acded5b1" />
         <field name="Level" type="ByteTableFieldDefinition" value="23" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6592,6 +7118,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="19eef170-553c-4b39-beb1-d0870a09f2ad" />
         <field name="Level" type="ByteTableFieldDefinition" value="24" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6600,6 +7128,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9dcdd0b6-6d9b-4dc4-a672-8023eac0cecb" />
         <field name="Level" type="ByteTableFieldDefinition" value="25" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6608,6 +7138,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="231e680a-f7a4-4e6a-bc93-d5399c3659fd" />
         <field name="Level" type="ByteTableFieldDefinition" value="26" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6616,6 +7148,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="92e4924a-c250-4bba-afeb-920f52a8a3c3" />
         <field name="Level" type="ByteTableFieldDefinition" value="27" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6624,6 +7158,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9b6c348f-4239-465a-bfea-8a63397b1e48" />
         <field name="Level" type="ByteTableFieldDefinition" value="28" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6632,6 +7168,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="99c76672-e735-40e2-8e64-a1accfe6cad9" />
         <field name="Level" type="ByteTableFieldDefinition" value="29" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -6640,6 +7178,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b668a255-4bc5-4b78-8d36-a2798b15b969" />
         <field name="Level" type="ByteTableFieldDefinition" value="30" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="8f6048bc-47b8-49fa-956a-8a364807f6ec" />
+        <field name="FSName" type="StringTableFieldDefinition" value="WarDomain" />
       </fields>
     </stat_object>
     <stat_object color="#FFFFA500" is_substat="false">
